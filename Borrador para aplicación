@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1></h1>
+    <title>Registro de usuarios</title>
+<h2>PROYECTO II</h2>
+<h3>Licenciatura en Desarrollo de Sistemas Web</h3>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        #registro {
+            width: 300px;
+            margin: 40px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <div id="registro">
+        <h1>Registro de usuarios</h1>
+        <
